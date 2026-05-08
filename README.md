@@ -1,4 +1,4 @@
-# StealthScraper 🕵️
+# StealthScraper 
 
 A lightweight web scraping toolkit with session management, stealth headers, and multiple output formats. No heavy dependencies — just Python stdlib.
 
