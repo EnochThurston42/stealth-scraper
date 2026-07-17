@@ -1,6 +1,6 @@
 # StealthScraper 
 
-A lightweight web scraping toolkit with session management, stealth headers, and multiple output formats. No heavy dependencies — just Python stdlib.
+A lightweight web scraping toolkit with session management, stealth headers, and multiple output formats.
 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
